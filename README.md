@@ -1,4 +1,4 @@
-## Amazon Seller (forked)
+## Amazon Seller
 
 [![NPM][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
